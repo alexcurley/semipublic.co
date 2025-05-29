@@ -1,0 +1,577 @@
+SID,State,City,Recipient,Type,Document,Affiliation,Lat,Long,Population,Density,AFS
+2,Alabama,Birmingham,Alabama Public Television,TV,AFR_T,PBS,33.5279,-86.7971,778756,523.3,y
+3,Alabama,Birmingham,WBHM,Radio,AFR_R,NPR,33.5279,-86.7971,778756,523.3,y
+4,Alabama,Huntsville,WLRH,Radio,AFR_R,NPR,34.6981,-86.6412,359389,377.8,y
+5,Alabama,Montgomery,WVAS,Radio,,NPR,32.3482,-86.2668,251545,479.3,
+6,Alabama,Normal,WJAB,Radio,AFS,NPR,34.7869,-86.5719,252286,,y
+7,Alabama,Troy,WTSU,Radio,,NPR,31.8021,-85.9664,17733,241.6,
+8,Alabama,Tuscaloosa,WUAL,Radio,AFR_R,NPR,33.2348,-87.5268,166253,669.1,
+9,Alaska,Anchorage,KAKM,TV,AFR_T,PBS,61.1508,-149.1091,289069,65.4,y
+10,Alaska,Anchorage,KNBA,Radio,AFR_R,NPR,61.1508,-149.1091,289069,65.4,y
+11,Alaska,Anchorage,KSKA,Radio,AFR_R,NPR,61.1508,-149.1091,289069,65.4,y
+12,Alaska,Barrow,KBRW,Radio,AFR_R,NPR,71.2906,-156.7886,10891,,y
+13,Alaska,Bethel,KYUK,Radio,AFR_R,NPR,60.7928,-161.7917,6313,54.8,y
+14,Alaska,Chevak,KCUK,Radio,,NPR,61.5295,-165.5941,464,156.7,
+15,Alaska,Dillingham,KDLG,Radio,AFR_R,NPR,59.055,-158.5378,2084,24.1,y
+16,Alaska,Fairbanks,KRFF,Radio,,Other,64.8353,-147.6533,71555,392.1,
+17,Alaska,Fairbanks,KUAC-FM,Radio,AFR_R,NPR,64.8353,-147.6533,71555,392.1,y
+18,Alaska,Fairbanks,KUAC-TV,TV,AFR_T,PBS,64.8353,-147.6533,71555,392.1,y
+19,Alaska,Ft. Yukon,KZPA,Radio,,NPR,66.5675,-145.2564,583,,
+20,Alaska,Galena,KIYU,Radio,AFS,NPR,64.7381,-156.8635,565,12.4,y
+21,Alaska,Haines,KHNS,Radio,,NPR,59.2416,-135.4549,1781,51.9,
+22,Alaska,Homer,KBBI,Radio,AFR_R,NPR,59.653,-151.5255,5750,161,y
+23,Alaska,Juneau,KTOO-FM,Radio,AFR_R,NPR,58.4546,-134.1739,31969,4.6,y
+24,Alaska,Juneau,KTOO-TV,TV,AFR_T,PBS,58.4546,-134.1739,31969,4.6,y
+25,Alaska,Kenai,KDLL,Radio,FSR,NPR,60.5619,-151.1985,7562,100.2,y
+26,Alaska,Ketchikan,KRBD,Radio,,NPR,55.3556,-131.6698,8151,824.9,y
+27,Alaska,Kodiak,KMXT,Radio,,NPR,57.7934,-152.4059,5497,540.1,
+28,Alaska,Kotzebue,KOTZ,Radio,,NPR,66.8766,-162.5231,3046,47.5,y
+29,Alaska,Mcgrath,KSKO,Radio,,NPR,62.9424,-155.563,195,1.8,
+30,Alaska,Petersburg,KFSK,Radio,,NPR,57.4212,-133.3231,0,0,y
+31,Alaska,Sand Point,KSDP,Radio,FSR,NPR,55.3227,-160.4834,1146,55.2,
+32,Alaska,Sitka,KCAW,Radio,AFS,NPR,57.2401,-135.3152,8393,1.1,y
+33,Alaska,St. Paul,KUHB,Radio,FSR,NPR,57.1815,-170.2743,362,3.3,y
+34,Alaska,Talkeetna,KTNA,Radio,FSR,NPR,62.2994,-149.9601,997,4.1,y
+35,Alaska,Unalakleet,KNSA,Radio,FSR,NPR,63.8924,-160.7861,800,107.9,y
+36,Alaska,Unalaska,KUCB,Radio,FSR,NPR,53.8984,-166.568,4430,16.7,y
+37,Alaska,Valdez,KCHU,Radio,,NPR,61.0963,-146.2596,3911,7.1,
+38,Alaska,Wrangell,KSTK,Radio,,NPR,56.3317,-132.0223,2106,1.2,y
+39,American Samoa,Pago Pago,KVZK,TV,,PBS,-14.2739,-170.7044,3000,,
+40,Arizona,Covered Wells,KOHN,Radio,AFR_R,Other,32.1667,-112.1257,,,y
+41,Arizona,Flagstaff,KNAU,Radio,AFR_R,NPR,35.1872,-111.6194,77868,446.5,y
+42,Arizona,Flagstaff,Native Public Media,Other,,Other,35.1872,-111.6194,77868,446.5,
+43,Arizona,Kykotsmovi,KUYI,Radio,FSR,NPR,35.8576,-110.6338,758,17.3,y
+44,Arizona,Phoenix,KAET,TV,AFR_T,PBS,33.5722,-112.0892,4065338,1210.3,y
+45,Arizona,Tempe,KBAQ,Radio,AFR_R,NPR,33.3881,-111.9319,186419,1800.3,y
+46,Arizona,Tempe,KJZZ,Radio,AFR_R,NPR,33.3881,-111.9319,186419,1800.3,y
+47,Arizona,Tuba City,KGHR,Radio,FSR,Other,36.125,-111.2467,8265,356.6,y
+48,Arizona,Tucson,KUAT,TV,AFR_T,NPR,32.1541,-110.8787,879871,866.2,y
+49,Arizona,Tucson,KUAZ,Radio,AFR_R,NPR,32.1541,-110.8787,879871,866.2,y
+50,Arizona,Tucson,KXCI,Radio,AFS,Other,32.1541,-110.8787,879871,866.2,y
+51,Arizona,Whiteriver,KNNB,Radio,,NPR,33.8358,-109.9616,4308,106,
+52,Arizona,Yuma,KAWC,Radio,AFR_R,NPR,32.5995,-114.5491,144509,314.1,y
+53,Arkansas,Conway,Arkansas Educational Television Network,TV,AFR_T,PBS,35.0753,-92.4692,69918,548.9,y
+54,Arkansas,Conway,Arkansas PBS Foundation,Other,,PBS,35.0753,-92.4692,69918,548.9,
+55,Arkansas,Fayetteville,KUAF,Radio,,NPR,36.0714,-94.1661,405556,685.6,y
+56,Arkansas,Hot Springs,Hot Springs Documentary Film Institute,Other,,Other,34.4892,-93.0501,38023,390.8,
+57,Arkansas,Little Rock,KUAR,Radio,AFR_R,NPR,34.7256,-92.3577,467846,650.8,y
+58,Arkansas,State University,KASU,Radio,AFR_R,NPR,35.8111,-90.6791,80655,381.3,y
+59,California,Arcata,KHSU,Radio,,NPR,40.8615,-124.0758,18578,761.8,
+60,California,Burbank,KCET,TV,AFR_T,PBS,34.1879,-118.3235,105165,2344.9,y
+61,California,Burbank,Latino Public Broadcasting,Other,,Other,34.1879,-118.3235,105165,2344.9,
+62,California,Chico,KCHO,Radio,,NPR,39.7578,-121.8161,109411,1141.2,y
+63,California,Chico,KZFR,Radio,FSR,Other,39.7578,-121.8161,109411,1141.2,y
+64,California,Clovis,KVPR,Radio,AFR_R,NPR,36.8278,-119.683,122719,1832.8,y
+65,California,Costa Mesa,KOCE,TV,,PBS,33.6667,-117.9135,110538,2700.2,y
+66,California,Eureka,KEET,TV,AFR_T,PBS,40.7943,-124.1564,26302,1061.5,y
+67,California,Fresno,KSJV,Radio,,Other,36.783,-119.7939,724547,1812.2,
+68,California,Fresno,KVPT,TV,AFR_T,PBS,36.783,-119.7939,724547,1812.2,y
+69,California,Hoopa,KIDE,Radio,,Other,41.0803,-123.6972,2274,43,
+70,California,Irvine,"Shoe Ink, LLC",Other,,Other,33.6772,-117.7738,308160,1813.4,
+71,California,Laguna Beach,KXRN,Radio,,Other,33.5455,-117.7613,22777,988.7,
+72,California,Long Beach,KKJZ,Radio,AFR_R,NPR,33.7977,-118.167,458491,3493.5,y
+73,California,Los Angeles,KLCS,TV,AFR_T,PBS,34.1141,-118.4068,11885717,3165.8,y
+74,California,Los Angeles,KUSC,Radio,AFR_R,NPR,34.1141,-118.4068,11885717,3165.8,y
+75,California,Nevada City,KVMR,Radio,,Other,39.2607,-121.0231,3168,544.5,
+76,California,Northridge,KCSN,Radio,AFS,NPR,34.2281,-118.5358,61993,,y
+77,California,Pasadena,KPCC,Radio,AFR_R,NPR,34.1597,-118.139,136462,2294.8,y
+78,California,Philo,KZYX,Radio,AFS,NPR,39.0657,-123.445,41,7.7,y
+79,California,Point Reyes Station,KWMR,Radio,AFR_R,Other,38.0847,-122.8093,465,49.7,y
+80,California,Redding,KIXE,TV,AFS,PBS,40.5698,-122.365,120849,605.5,y
+81,California,Redway,KMUD,Radio,AFR_R,Other,40.1208,-123.822,1276,393.9,y
+82,California,Rohnert Park,KRCB-FM,Radio,FSR,NPR,38.3479,-122.6965,44461,2356.1,y
+83,California,Rohnert Park,KRCB-TV,TV,AFR_T,PBS,38.3479,-122.6965,44461,2356.1,y
+84,California,Sacramento,KVIE,TV,AFR_T,PBS,38.5677,-121.4685,1962998,2054.1,y
+85,California,Sacramento,KXJZ,Radio,AFS,NPR,38.5677,-121.4685,1962998,2054.1,y
+86,California,Sacramento,KXPR,Radio,AFS,NPR,38.5677,-121.4685,1962998,2054.1,y
+87,California,San Bernardino,KVCR,TV,AFR_T,NPR,34.1416,-117.2943,221774,1378.9,y
+88,California,San Diego,KPBS,TV,AFR_T,NPR,32.8313,-117.1222,3057778,1640,y
+89,California,San Diego,KSDS,Radio,AFR_R,NPR,32.8313,-117.1222,3057778,1640,y
+90,California,San Francisco,Center for Asian American Media,Other,,Other,37.7558,-122.4449,3364862,6914.5,
+91,California,San Francisco,"Independent Television Service, Inc.",Other,,Other,37.7558,-122.4449,3364862,6914.5,
+92,California,San Francisco,KALW,Radio,AFR_R,NPR,37.7558,-122.4449,3364862,6914.5,y
+93,California,San Francisco,KQED-FM,Radio,AFR_R,NPR,37.7558,-122.4449,3364862,6914.5,y
+94,California,San Francisco,KQED-TV,TV,AFR_T,PBS,37.7558,-122.4449,3364862,6914.5,y
+95,California,San Luis Obispo,KCBX,Radio,AFS,NPR,35.2669,-120.669,48039,1377.1,y
+96,California,San Mateo,KCSM,Radio,,NPR,37.5522,-122.3121,103555,3295.1,y
+97,California,Santa Monica,KCRW,Radio,AFR_R,NPR,34.0235,-118.481,91535,4202.9,y
+98,California,Seaside,KAZU,Radio,AFR_R,NPR,36.6224,-121.8199,118398,1383,y
+99,California,Thousand Oaks,KCLU,Radio,AFR_R,NPR,34.1914,-118.8756,208302,878.1,y
+100,California,Westlake Village,SmithGeiger LLC,Other,,Other,34.1369,-118.822,7829,582.7,
+101,Colorado,Alamosa,KRZA,Radio,AFS,NPR,37.4752,-105.877,9847,477.4,y
+102,Colorado,Aspen,KAJX,Radio,AFR_R,NPR,39.1951,-106.8369,6862,685.9,y
+103,Colorado,Boulder,KGNU,Radio,AFR_R,Other,40.0248,-105.2524,120121,1525.7,y
+104,Colorado,Boulder,"Pacey Economics, Inc.",Other,,Other,40.0248,-105.2524,120121,1525.7,
+105,Colorado,Carbondale,KDNK,Radio,AFR_R,NPR,37.7221,-89.2237,21813,481.8,y
+106,Colorado,Centennial,KVOD,Radio,AFR_R,NPR,39.5926,-104.8673,107386,1374.9,y
+107,Colorado,Colorado Springs,KCME,Radio,AFR_R,NPR,38.8674,-104.7605,638421,924,y
+108,Colorado,Colorado Springs,KRCC,Radio,AFR_R,NPR,38.8674,-104.7605,638421,924,y
+109,Colorado,Cortez,KSJD,Radio,,NPR,37.3503,-108.5768,8898,551.5,y
+110,Colorado,Crested Butte,KBUT,Radio,,NPR,38.8676,-106.9773,1436,639.8,
+111,Colorado,Denver,KBDI,TV,AFR_T,PBS,39.762,-104.8758,2691349,1800.3,y
+112,Colorado,Denver,KRMA,TV,AFR_T,PBS,39.762,-104.8758,2691349,1800.3,y
+113,Colorado,Denver,KUVO,Radio,AFR_R,NPR,39.762,-104.8758,2691349,1800.3,y
+114,Colorado,Durango,KDUR,Radio,,Other,37.2659,-107.8781,19257,504.3,y
+115,Colorado,Fort Collins,KRFC,Radio,AFS,Other,40.5477,-105.0656,339256,1144.8,
+116,Colorado,Grand Junction,KAFM,Radio,AFS,Other,39.0877,-108.5673,141008,637.1,y
+117,Colorado,Greeley,KUNC,Radio,AFR_R,NPR,40.4152,-104.7706,143554,854.6,y
+118,Colorado,Ignacio,KSUT,Radio,,NPR,37.118,-107.6376,1255,946.9,
+119,Colorado,Lakewood,Paragon Media Strategies LLC,Other,,Other,39.6977,-105.1172,156309,1388.7,
+120,Colorado,Louisville,Theodore F. Krichels,Other,,Other,39.971,-105.1441,20788,1007,
+121,Colorado,Paonia,KVNF,Radio,AFS,NPR,38.8698,-107.592,1454,677.3,
+122,Colorado,Paonia,"National Federation of Community Broadcasters, Inc.",Other,,Other,38.8698,-107.592,1454,677.3,
+123,Colorado,Telluride,KOTO,Radio,AFR_R,NPR,37.9364,-107.827,2595,453.2,y
+124,Connecticut,Fairfield,WSHU,Radio,AFR_R,NPR,41.159,-73.2571,2516,1782.6,
+125,Connecticut,Hartford,"Connecticut Public Broadcasting, Inc. FM",Radio,AFR_R,NPR,41.7661,-72.6834,969171,2665.3,y
+126,Connecticut,Hartford,"Connecticut Public Broadcasting, Inc. TV",TV,AFR_T,PBS,41.7661,-72.6834,969171,2665.3,y
+127,Connecticut,Monroe,WMNR,Radio,AFR_R,Other,41.3361,-73.2258,18825,,y
+128,Connecticut,Sharon,WHDD,Radio,AFS,NPR,41.8667,-73.45,2680,,
+129,Delaware,Dover,WDDE,Radio,AFS,NPR,39.161,-75.5202,128045,640.2,y
+130,District of Columbia,Washington,"Capital Concerts, Inc.",Other,,Other,38.9047,-77.0163,5146120,4245.2,
+131,District of Columbia,Washington,Civic LLC,Other,,Other,38.9047,-77.0163,5146120,4245.2,
+132,District of Columbia,Washington,"Everfi, Inc.",Other,,Other,38.9047,-77.0163,5146120,4245.2,
+133,District of Columbia,Washington,National Hispanic Foundation for the Arts,Other,,Other,38.9047,-77.0163,5146120,4245.2,
+134,District of Columbia,Washington,National Public Radio,Other,,Other,38.9047,-77.0163,5146120,4245.2,
+135,District of Columbia,Washington,WAMU,Radio,AFR_R,NPR,38.9047,-77.0163,5146120,4245.2,y
+136,District of Columbia,Washington,WHUT,TV,AFR_T,PBS,38.9047,-77.0163,5146120,4245.2,y
+137,Florida,Boynton Beach,WPBT,TV,AFR_T,PBS,26.5281,-80.0811,80601,1928.6,y
+138,Florida,Cocoa,WEFS,TV,,PBS,28.382,-80.7675,19330,544.5,y
+139,Florida,Fort Myers,WGCU,Radio,AFR_R,NPR,26.6194,-81.8302,91730,885.4,y
+140,Florida,Fort Pierce,WQCS,Radio,AFR_R,NPR,27.4255,-80.3431,48094,768.8,y
+141,Florida,Gainesville,WUFT FM,Radio,AFR_R,NPR,29.6804,-82.3459,219946,866.6,y
+142,Florida,Gainesville,WUFT TV,TV,AFR_T,PBS,29.6804,-82.3459,219946,866.6,y
+143,Florida,Jacksonville,WJCT,TV,AFR_T,PBS,30.3322,-81.6749,1303156,496.9,y
+144,Florida,Melbourne,WFIT,Radio,,NPR,28.1086,-80.6627,85718,749,
+145,Florida,Miami,WDNA,Radio,,NPR,25.784,-80.2101,6113982,4791.1,y
+146,Florida,Miami,WLRN FM,Radio,AFR_R,NPR,25.784,-80.2101,6113982,4791.1,y
+147,Florida,Miami,WLRN TV,TV,AFR_T,PBS,25.784,-80.2101,6113982,4791.1,y
+148,Florida,Orlando,"University of Central Florida Research Foundation, Inc.",Other,,Other,28.4773,-81.337,1913597,1082,
+149,Florida,Orlando,WMFE,Radio,AFR_R,NPR,28.4773,-81.337,1913597,1082,y
+150,Florida,Orlando,WUCF FM,Radio,AFR_R,NPR,28.4773,-81.337,1913597,1082,y
+151,Florida,Orlando,WUCF TV,TV,AFR_T,PBS,28.4773,-81.337,1913597,1082,y
+152,Florida,Panama City,WKGC,Radio,AFR_R,NPR,30.1995,-85.6003,177125,372.8,y
+153,Florida,Pensacola,WSRE,TV,AFS,PBS,30.4413,-87.1911,401535,915.9,y
+154,Florida,Pensacola,WUWF,Radio,AFR_R,NPR,30.4413,-87.1911,401535,915.9,y
+155,Florida,St. Petersburg,"The Poynter Institute for Media Studies, Inc",Other,,Other,27.7931,-82.6652,260646,1628.3,
+156,Florida,Tallahassee,WFSU,Radio,AFR_R,NPR,30.4551,-84.2527,261271,752.8,y
+157,Florida,Tampa,WEDU,TV,AFR_T,PBS,27.9945,-82.4447,2906035,1336.6,y
+158,Florida,Tampa,WMNF,Radio,AFR_R,NPR,27.9945,-82.4447,2906035,1336.6,y
+159,Florida,Tampa,WUSF,Radio,AFR_R,NPR,27.9945,-82.4447,2906035,1336.6,y
+160,Georgia,Atlanta,Georgia Public Broadcasting,TV,AFR_T,PBS,33.7628,-84.422,5211164,1425.3,y
+161,Georgia,Atlanta,WABE,Radio,AFR_R,NPR,33.7628,-84.422,5211164,1425.3,y
+162,Georgia,Atlanta,WCLK,Radio,,NPR,33.7628,-84.422,5211164,1425.3,
+163,Georgia,Atlanta,WJSP,Radio,AFR_R,NPR,33.7628,-84.422,5211164,1425.3,y
+164,Georgia,Atlanta,WUGA,Radio,AFR_R,NPR,33.7628,-84.422,5211164,1425.3,y
+165,Guam,Mangilao,KGTF,TV,AFR_T,PBS,13.4476,144.8011,13476,,
+166,Guam,Mangilao,KPRG,Radio,FSR,NPR,13.4476,144.8011,13476,,
+167,Hawaii,Honolulu,Hawaii Public Television,TV,AFR_T,PBS,21.3294,-157.846,346323,2205.7,y
+168,Hawaii,Honolulu,KHPR,Radio,AFR_R,NPR,21.3294,-157.846,346323,2205.7,y
+169,Hawaii,Honolulu,Pacific Islanders In Communications,Other,,Other,21.3294,-157.846,346323,2205.7,
+170,Hawaii,Princeville,KKCR,Radio,,Other,22.2236,-159.4853,1794,,y
+171,Idaho,Boise,Idaho Public Television,TV,AFR_T,PBS,43.6005,-116.2308,449428,1076.3,y
+172,Idaho,Boise,KBSU,Radio,AFR_R,NPR,43.6005,-116.2308,449428,1076.3,y
+173,Idaho,Boise,KBSW,Radio,AFR_R,NPR,43.6005,-116.2308,449428,1076.3,y
+174,Idaho,Lapwai,KIYE,Radio,,Other,46.4034,-116.8041,1041,531.5,
+175,Idaho,Pocatello,KISU,Radio,AFR_R,NPR,42.8724,-112.4647,76370,657.3,y
+176,Illinois,Carbondale,WSIU FM,Radio,AFR_R,NPR,37.7221,-89.2237,21813,481.8,y
+177,Illinois,Carbondale,WSIU TV,TV,AFR_T,PBS,37.7221,-89.2237,21813,481.8,y
+178,Illinois,Charleston,WEIU,TV,AFR_T,PBS,39.4842,-88.1781,17212,747.6,
+179,Illinois,Chicago,WBEZ,Radio,AFR_R,NPR,41.8375,-87.6866,8489066,4590.3,y
+180,Illinois,Chicago,WTTW,TV,AFS,PBS,41.8375,-87.6866,8489066,4590.3,y
+181,Illinois,DeKalb,WNIJ,Radio,AFR_R,NPR,41.9314,-88.7481,40464,901.5,
+182,Illinois,Glen Ellyn,WDCB,Radio,,Other,41.8666,-88.0629,28270,1583.8,y
+183,Illinois,Macomb,WIUM,Radio,AFR_R,NPR,40.4709,-90.6807,15006,546.5,y
+184,Illinois,Moline,WQPT,TV,AFR_T,PBS,41.4821,-90.492,42235,973.4,y
+185,Illinois,Normal,WGLT,Radio,AFR_R,NPR,40.5217,-88.9884,52908,1107.1,y
+186,Illinois,Peoria,WCBU,Radio,AFR_R,NPR,40.752,-89.6154,262461,899.6,y
+187,Illinois,Peoria,WTVP,TV,AFR_T,PBS,40.752,-89.6154,262461,899.6,y
+188,Illinois,Rock Island,WGVV,Radio,FSR,Other,41.4699,-90.5827,36758,841.2,y
+189,Illinois,Rock Island,WVIK,Radio,,NPR,41.4699,-90.5827,36758,841.2,
+190,Illinois,Springfield,WUIS,Radio,AFR_R,NPR,39.7709,-89.654,156240,716.7,y
+191,Illinois,Urbana,WILL,Radio,AFR_R,NPR,40.1107,-88.1973,38447,1253.6,y
+192,Indiana,Bloomington,WFHB,Radio,,Other,40.4757,-88.9703,133107,1120.8,y
+193,Indiana,Bloomington,WFIU FM,Radio,AFR_R,NPR,40.4757,-88.9703,133107,1120.8,y
+194,Indiana,Bloomington,WTIU,TV,AFR_T,PBS,40.4757,-88.9703,133107,1120.8,y
+195,Indiana,Elkhart,WVPE,Radio,AFR_R,NPR,41.6916,-85.9627,146511,747.5,y
+196,Indiana,Evansville,WNIN FM,Radio,AFR_R,PBS,37.9881,-87.5341,206418,949.4,y
+197,Indiana,Evansville,WNIN TV,TV,AFR_T,NPR,37.9881,-87.5341,206418,949.4,y
+198,Indiana,Fort Wayne,WBOI,Radio,AFS,NPR,41.0888,-85.1436,345279,929.2,y
+199,Indiana,Fort Wayne,WFWA,TV,AFR_T,PBS,41.0888,-85.1436,345279,929.2,y
+200,Indiana,Indianapolis,WFYI,Radio,AFR_R,NPR,39.7771,-86.1458,1740984,943.3,y
+201,Indiana,Merrillville,WLPR,Radio,FSR,NPR,41.4728,-87.3196,36343,422.4,
+202,Indiana,Merrillville,WYIN,TV,AFR_T,PBS,41.4728,-87.3196,36343,422.4,
+203,Indiana,Muncie,WBST,Radio,AFR_R,NPR,40.1989,-85.395,83477,912.1,y
+204,Indiana,Muncie,WIPB,TV,AFS,PBS,40.1989,-85.395,83477,912.1,y
+205,Indiana,South Bend,WNIT,TV,AFR_T,PBS,41.6767,-86.2696,275725,948,y
+206,Indiana,Vincennes,WVUB,Radio,AFS,NPR,38.6759,-87.5102,16676,863.7,y
+207,Indiana,Vincennes,WVUT,TV,AFS,PBS,38.6759,-87.5102,16676,863.7,y
+208,Iowa,Cedar Rapids,KCCK,Radio,AFR_R,NPR,41.9662,-91.6783,192755,712.5,y
+209,Iowa,Council Bluffs,KIWR,Radio,AFR_R,NPR,41.2369,-95.8516,62564,562.2,y
+210,Iowa,Des Moines,WOI,Radio,AFR_R,NPR,41.5725,-93.6105,560170,930.5,y
+211,Iowa,Johnston,Iowa PBS,TV,AFR_T,PBS,41.691,-93.7234,24196,479.3,y
+212,Iowa,Sioux City,KWIT,Radio,AFR_R,NPR,42.4959,-96.3901,112823,561.7,y
+213,Kansas,Bunker Hill,KOOD,TV,AFR_T,PBS,38.8747,-98.7028,109,,y
+214,Kansas,Garden City,KANZ,Radio,,NPR,37.9753,-100.8527,27781,974.3,y
+215,Kansas,Hutchinson,KHCC,Radio,AFR_R,NPR,38.0671,-97.9081,39837,,y
+216,Kansas,Lawrence,KANU,Radio,AFR_R,NPR,38.9597,-95.2642,96380,1076,y
+217,Kansas,Pittsburg,KRPS,Radio,AFR_R,NPR,37.4108,-94.6983,20606,,
+218,Kansas,Topeka,KTWU,TV,AFR_T,PBS,39.0346,-95.6955,150343,789.6,y
+219,Kansas,Wichita,KMUW,Radio,AFR_R,NPR,37.6895,-97.3443,501760,939.5,y
+220,Kansas,Wichita,KPTS,TV,AFR_T,PBS,37.6895,-97.3443,501760,939.5,y
+221,Kentucky,Bowling Green,WKYU,Radio,AFR_R,NPR,36.9716,-86.4378,102247,685.1,y
+222,Kentucky,Lexington,Kentucky Network,Other,,PBS,38.0423,-84.4587,321122,436.8,y
+223,Kentucky,Lexington,WUKY,Radio,AFS,NPR,38.0423,-84.4587,321122,436.8,y
+224,Kentucky,Louisville,WFPK,Radio,AFR_R,NPR,38.1663,-85.6485,965005,920.6,y
+225,Kentucky,Morehead,WMKY,Radio,AFR_R,NPR,38.1906,-83.4466,6924,276.3,y
+226,Kentucky,Murray,WKMS,Radio,AFR_R,NPR,36.6094,-88.3156,17888,,y
+227,Kentucky,Richmond,WEKU,Radio,AFR_R,NPR,37.7307,-84.2925,35498,629.1,y
+228,Kentucky,Whitesburg,WMMT,Radio,AFS,Other,37.1183,-82.823,1998,246.3,
+229,Louisiana,Baton Rouge,Louisiana Public Broadcasting Network,TV,AFR_T,PBS,30.442,-91.1311,630063,993.4,y
+230,Louisiana,Baton Rouge,WBRH,Radio,AFS,NPR,30.442,-91.1311,630063,993.4,y
+231,Louisiana,Baton Rouge,WRKF,Radio,AFR_R,NPR,30.442,-91.1311,630063,993.4,y
+232,Louisiana,Hammond,KSLU,Radio,AFR_R,NPR,30.5061,-90.4563,67874,563.1,y
+233,Louisiana,Lafayette,KRVS,Radio,AFR_R,NPR,30.2082,-92.0325,231548,837.7,y
+234,Louisiana,Metairie,WLAE,TV,AFR_T,PBS,29.9977,-90.178,138995,2317.3,y
+235,Louisiana,Monroe,KEDM,Radio,AFR_R,NPR,32.5185,-92.0774,117507,613.5,y
+236,Louisiana,New Orleans,WWNO,Radio,AFR_R,NPR,30.0687,-89.9288,918752,856.6,y
+237,Louisiana,New Orleans,WWOZ,Radio,AFS,Other,30.0687,-89.9288,918752,856.6,y
+238,Louisiana,New Orleans,WYES,TV,AFR_T,PBS,30.0687,-89.9288,918752,856.6,y
+239,Louisiana,Shreveport,KDAQ,Radio,AFR_R,NPR,32.4653,-93.7955,278269,655.1,y
+240,Maine,East Orland,WERU,Radio,AFS,Other,44.5667,-68.6797,1857,,y
+241,Maine,Lewiston,Maine Network,TV,AFR_T,PBS,44.0915,-70.1681,37886,428.4,y
+242,Maine,Lewiston,WMEH,Radio,AFR_R,NPR,44.0915,-70.1681,37886,428.4,y
+243,Maine,Portland,WMEA,Radio,AFR_R,NPR,43.6773,-70.2715,213660,1228,y
+244,Maryland,Baltimore,WBJC,Radio,AFR_R,Other,39.3051,-76.6144,2189589,2753.1,y
+245,Maryland,Baltimore,WEAA,Radio,AFR_R,NPR,39.3051,-76.6144,2189589,2753.1,y
+246,Maryland,Baltimore,WYPR,Radio,AFR_R,NPR,39.3051,-76.6144,2189589,2753.1,y
+247,Maryland,Chevy Chase,Mexican Table LLC,Other,,Other,38.9944,-77.0738,9484,1518.2,
+248,Maryland,Owings Mills,Maryland Network,TV,AFS,PBS,39.4115,-76.7913,35626,1443,
+249,Maryland,Princess Anne,WESM,Radio,AFR_R,NPR,38.2054,-75.697,3461,800.2,y
+250,Maryland,Rockville,Public Media Business Association,Other,,Other,39.0834,-77.1553,67218,1913,
+251,Maryland,Salisbury,WSCL,Radio,AFR_R,NPR,38.3756,-75.5865,80352,925,y
+252,Massachusetts,Boston,"PRX, Inc.",Other,,Other,42.3188,-71.0852,4355184,5303.3,
+253,Massachusetts,Boston,WBUR,Radio,AFR_R,NPR,42.3188,-71.0852,4355184,5303.3,y
+254,Massachusetts,Boston,WERS,Radio,AFS,Other,42.3188,-71.0852,4355184,5303.3,y
+255,Massachusetts,Boston,WFCR,Radio,AFR_R,NPR,42.3188,-71.0852,4355184,5303.3,y
+256,Massachusetts,Boston,WGBH FM,Radio,AFR_R,NPR,42.3188,-71.0852,4355184,5303.3,y
+257,Massachusetts,Boston,WGBH TV,TV,AFR_T,PBS,42.3188,-71.0852,4355184,5303.3,y
+258,Massachusetts,Boston,WUMB,Radio,AFS,NPR,42.3188,-71.0852,4355184,5303.3,y
+259,Massachusetts,Provincetown,WOMR,Radio,FSR,Other,42.058,-70.179,3466,,
+260,Massachusetts,West Tisbury,WMVY,Radio,AFR_R,NPR,41.3811,-70.675,2417,,y
+261,Massachusetts,Worcester,WICN,Radio,AFS,NPR,42.2705,-71.8079,487014,2123.8,y
+262,Michigan,Ann Arbor,WUOM,Radio,AFR_R,NPR,42.2759,-83.731,314647,1651.5,y
+263,Michigan,Detroit,WDET,Radio,AFR_R,NPR,42.3834,-83.1024,3716929,1771.8,y
+264,Michigan,Detroit,WRCJ,Radio,AFR_R,Other,42.3834,-83.1024,3716929,1771.8,y
+265,Michigan,East Lansing,WKAR,Radio,AFR_R,NPR,42.748,-84.4836,45394,1304.9,y
+266,Michigan,Grand Rapids,WGVU,Radio,AFR_R,NPR,42.9619,-85.6562,611480,1705.4,y
+267,Michigan,Interlochen,WIAA,Radio,AFR_R,NPR,44.6497,-85.7678,538,167.4,y
+268,Michigan,Kalamazoo,WMUK,Radio,AFR_R,NPR,42.2749,-85.5882,204408,1143.5,y
+269,Michigan,Marquette,WNMU,TV,AFR_T,NPR,46.544,-87.4082,20691,704.7,y
+270,Michigan,Mount Pleasant,WCMU FM,Radio,AFR_R,NPR,43.5966,-84.7759,21420,1071,y
+271,Michigan,Mount Pleasant,WCMU TV,TV,AFR_T,PBS,43.5966,-84.7759,21420,1071,y
+272,Michigan,Muskegon,WUVS,Radio,FSR,Other,43.2281,-86.2562,162458,1015.6,
+273,Michigan,Twin Lake,WBLV,Radio,,NPR,43.3696,-86.1837,1997,268.1,y
+274,Michigan,University Center,WDCQ,TV,AFR_T,PBS,43.5583,-83.9825,3662,,y
+275,Michigan,Wixom,WTVS,TV,AFR_T,PBS,42.5243,-83.5346,17126,723.6,y
+276,Michigan,Ypsilanti,WEMU,Radio,,NPR,42.244,-83.6208,19937,1793.2,y
+277,Minnesota,Austin,KSMQ,TV,AFR_T,PBS,43.6721,-92.9784,26167,760.4,y
+278,Minnesota,Bemidji,KAWE,TV,AFR_T,PBS,47.4828,-94.8797,15490,342.9,y
+279,Minnesota,Callaway,KKWE,Radio,AFR_R,Other,46.982,-95.912,197,121.5,y
+280,Minnesota,Cass Lake,KOJB,Radio,AFR_R,Other,47.3792,-94.5993,492,174.2,y
+281,Minnesota,Duluth,WDSE,Radio,FSR,PBS,46.7756,-92.1393,120443,468,y
+282,Minnesota,Grand Marais,WTIP,Radio,AFR_R,NPR,47.7588,-90.3445,1700,225.6,y
+283,Minnesota,Grand Rapids,KAXE,Radio,AFS,NPR,47.238,-93.5327,11186,193,y
+284,Minnesota,Granite Falls,KWCM,TV,AFR_T,PBS,44.8107,-95.5376,2612,284.4,y
+285,Minnesota,Minneapolis,Greater Public,Other,,Other,44.9635,-93.2678,2906807,3052,
+286,Minnesota,Minneapolis,KBEM,Radio,AFR_R,NPR,44.9635,-93.2678,2906807,3052,y
+287,Minnesota,Minneapolis,KFAI,Radio,,Other,44.9635,-93.2678,2906807,3052,
+288,Minnesota,Minneapolis,KMOJ,Radio,AFR_R,Other,44.9635,-93.2678,2906807,3052,y
+289,Minnesota,Nett Lake,KBFT,Radio,,Other,48.111,-93.094167,183,,
+290,Minnesota,Saint Paul,KTCA,TV,AFR_T,PBS,44.9478,-93.1039,307762,2286.4,y
+291,Minnesota,St. Paul,KBPR,Radio,AFR_R,NPR,44.9478,-93.1039,307762,2286.4,y
+292,Minnesota,St. Paul,KCCM,Radio,AFR_R,NPR,44.9478,-93.1039,307762,2286.4,y
+293,Minnesota,St. Paul,KLSE,Radio,AFR_R,NPR,44.9478,-93.1039,307762,2286.4,y
+294,Minnesota,St. Paul,KSJN,Radio,AFR_R,NPR,44.9478,-93.1039,307762,2286.4,y
+295,Minnesota,St. Paul,KSJR,Radio,AFR_R,NPR,44.9478,-93.1039,307762,2286.4,y
+296,Minnesota,St. Paul,WSCD,Radio,AFR_R,NPR,44.9478,-93.1039,307762,2286.4,y
+297,Minnesota,Thief River Falls,KSRQ,Radio,FSR,Other,48.1108,-96.1778,8841,568.6,y
+298,Mississippi,Holly Springs,WURC,Radio,,NPR,34.7768,-89.4466,6861,207.3,
+299,Mississippi,Jackson,Mississippi Public Broadcasting,TV,AFR_T,PBS,32.3157,-90.2125,331332,518,y
+300,Mississippi,Jackson,WJSU,Radio,,NPR,32.3157,-90.2125,331332,518,
+301,Mississippi,Jackson,WMPN,Radio,AFR_R,NPR,32.3157,-90.2125,331332,518,y
+302,Mississippi,Lorman,WPRL,Radio,,NPR,31.8206,-91.05,1786,,
+303,Missouri,Cape Girardeau,KRCU,Radio,AFR_R,NPR,37.3109,-89.5597,40047,528.4,y
+304,Missouri,Columbia,KBIA,Radio,,NPR,38.9472,-92.3268,141811,729.6,y
+305,Missouri,Columbia,KOPN,Radio,FSR,NPR,38.9472,-92.3268,141811,729.6,y
+306,Missouri,Jefferson City,KJLU,Radio,,Other,38.5676,-92.1759,42565,455.8,
+307,Missouri,Kansas City,KCPT,TV,AFR_T,PBS,39.1238,-94.5541,1686807,623.6,y
+308,Missouri,Kansas City,KCUR,Radio,AFR_R,NPR,39.1238,-94.5541,1686807,623.6,y
+309,Missouri,Kansas City,KKFI,Radio,AFS,Other,39.1238,-94.5541,1686807,623.6,y
+310,Missouri,Kansas City,KTBG,Radio,AFR_R,NPR,39.1238,-94.5541,1686807,623.6,y
+311,Missouri,Maryville,KXCV,Radio,,NPR,40.3428,-94.8702,10556,627.2,
+312,Missouri,Springfield,KOZK,TV,AFR_T,PBS,37.1943,-93.2916,289041,786.2,y
+313,Missouri,Springfield,KSMU,Radio,AFR_R,NPR,37.1943,-93.2916,289041,786.2,y
+314,Missouri,St. Louis,KDHX,Radio,AFR_R,Other,38.6359,-90.2451,2127843,1833.6,y
+315,Missouri,St. Louis,KETC,TV,AFR_T,PBS,38.6359,-90.2451,2127843,1833.6,y
+316,Missouri,St. Louis,KWMU,Radio,AFR_R,NPR,38.6359,-90.2451,2127843,1833.6,y
+317,Missouri,Warrensburg,KMOS,TV,AFR_T,PBS,38.7627,-93.726,19437,797.8,y
+318,Montana,Billings,KEMC,Radio,,NPR,45.7891,-108.5526,133173,1002.5,y
+319,Montana,Bozeman,KGLT,Radio,,NPR,45.6833,-111.0558,63917,994.2,
+320,Montana,Bozeman,KUSM,TV,AFR_T,PBS,45.6833,-111.0558,63917,994.2,y
+321,Montana,Harlem,KGVA,Radio,FSR,NPR,48.5318,-108.7847,879,811.4,
+322,Montana,Missoula,KUFM,Radio,AFS,NPR,46.8751,-114.0214,92942,838.4,y
+323,Nebraska,Lincoln,KUCV,Radio,AFR_R,NPR,40.8099,-96.6784,293055,1127.5,y
+324,Nebraska,Lincoln,KUON,TV,AFR_T,PBS,40.8099,-96.6784,293055,1127.5,y
+325,Nebraska,Lincoln,KZUM,Radio,FSR,Other,40.8099,-96.6784,293055,1127.5,y
+326,Nebraska,Lincoln,Nebraska Network,TV,AFR_T,PBS,40.8099,-96.6784,293055,1127.5,y
+327,Nebraska,Lincoln,Vision Maker Media,Other,,Other,40.8099,-96.6784,293055,1127.5,
+328,Nebraska,Omaha,KIOS,Radio,AFR_R,NPR,41.2627,-96.0529,826161,1318.3,y
+329,Nebraska,Omaha,KVNO,Radio,,NPR,41.2627,-96.0529,826161,1318.3,y
+330,Nevada,Las Vegas,KLVX,TV,AFR_T,PBS,36.2333,-115.2654,2256509,1771.5,y
+331,Nevada,Las Vegas,KNPR,Radio,AFR_R,NPR,36.2333,-115.2654,2256509,1771.5,y
+332,Nevada,Reno,KNPB,TV,,PBS,39.5497,-119.8483,454814,952.8,y
+333,Nevada,Reno,KUNR,Radio,AFR_R,NPR,39.5497,-119.8483,454814,952.8,y
+334,New Hampshire,Concord,"New Hampshire Public Radio, Inc.",Radio,AFR_R,NPR,43.2067,-71.5381,44219,,y
+335,New Hampshire,Durham,New Hampshire Network,TV,AFR_T,PBS,43.1339,-70.9264,10577,,y
+336,New Jersey,Jersey City,WFMU,Radio,,Other,40.7184,-74.0686,289691,7584.1,
+337,New Jersey,Lincroft,WBJB,Radio,AFS,NPR,40.3391,-74.1282,6901,477.3,
+338,New Jersey,Montclair,Montclair State University Foundation,Other,,Other,40.866,-74.1984,2177,558,
+339,New Jersey,Newark,WBGO,Radio,,NPR,40.7245,-74.1725,307188,4912.5,
+340,New Jersey,Trenton,New Jersey Network,Other,,PBS,40.2237,-74.7641,362501,4566.7,y
+341,New Jersey,West Windsor,WWFM,Radio,AFR_R,NPR,40.2903,-74.6277,29791,,
+342,New Mexico,Alamo,KABR,Radio,,Other,34.4184,-107.5125,1242,12.2,
+343,New Mexico,Albuquerque,KANW,Radio,AFS,NPR,35.1054,-106.6465,767499,1159.7,y
+344,New Mexico,Albuquerque,KHFM,Radio,AFS,Other,35.1054,-106.6465,767499,1159.7,y
+345,New Mexico,Albuquerque,KNME,TV,AFR_T,PBS,35.1054,-106.6465,767499,1159.7,y
+346,New Mexico,Albuquerque,KUNM,Radio,AFR_R,NPR,35.1054,-106.6465,767499,1159.7,y
+347,New Mexico,Dulce,KCIE,Radio,AFR_R,NPR,36.9399,-107.0049,2782,83.7,y
+348,New Mexico,Farmington,KSJE,Radio,,Other,36.7555,-108.1823,46339,519.2,
+349,New Mexico,Gallup,KGLP,TV,AFR_T,NPR,35.5182,-108.7431,21333,408,y
+350,New Mexico,Las Cruces,KRWG FM,Radio,AFR_R,NPR,32.3265,-106.7893,142432,565.2,y
+351,New Mexico,Las Cruces,KRWG TV,TV,AFR_T,PBS,32.3265,-106.7893,142432,565.2,y
+352,New Mexico,Pinehill,KTDB,Radio,,NPR,34.8922,-108.4224,466,50.9,
+353,New Mexico,Portales,KENW FM,Radio,,NPR,34.1754,-103.3565,12023,578.4,
+354,New Mexico,Portales,KENW TV,TV,,PBS,34.1754,-103.3565,12023,578.4,
+355,New Mexico,Santa Fe,KSFR,Radio,,Other,35.6619,-105.9819,94032,652.1,
+356,New Mexico,Zuni Pueblo,KSHI,Radio,FSR,Other,35.0693,-108.8558,6132,187.6,
+357,New York,Albany,WAMC,Radio,AFR_R,NPR,42.6664,-73.7987,602242,1805.4,y
+358,New York,Bronx,WFUV,Radio,AFR_R,NPR,40.8501,-73.8662,1472654,13356.3,y
+359,New York,Brooklyn,StoryCorps,Other,,Other,40.6501,-73.9496,2736074,15200.5,
+360,New York,Buffalo,WNED FM,Radio,AFR_R,NPR,42.9018,-78.8487,949547,2642.9,y
+361,New York,Buffalo,WNED TV,TV,AFR_T,PBS,42.9018,-78.8487,949547,2642.9,y
+362,New York,Canton,WSLU,Radio,AFS,NPR,44.5975,-75.171111,7222,,y
+363,New York,Geneva,WEOS,Radio,FSR,NPR,42.8645,-76.9826,12573,1151.9,y
+364,New York,Jamestown,WRFA,Radio,,Other,42.0976,-79.2367,28401,1232.2,
+365,New York,Jeffersonville,WJFF,Radio,FSR,NPR,41.7799,-74.9298,417,394.3,y
+366,New York,New York,Black Public Media,Other,,Other,40.6943,-73.9249,18832416,10943.7,
+367,New York,New York,"Education Development Center, Inc.",Other,,Other,40.6943,-73.9249,18832416,10943.7,
+368,New York,New York,"Rebel Productions, Inc.",Other,,Other,40.6943,-73.9249,18832416,10943.7,
+369,New York,New York,Sesame Workshop,Other,,Other,40.6943,-73.9249,18832416,10943.7,
+370,New York,New York,"Thirteen Productions, LLC",Other,,Other,40.6943,-73.9249,18832416,10943.7,
+371,New York,New York,WLIW,Radio,AFR_R,NPR,40.6943,-73.9249,18832416,10943.7,y
+372,New York,New York,WNET,TV,AFR_T,PBS,40.6943,-73.9249,18832416,10943.7,y
+373,New York,New York,WNYC,Radio,AFR_R,NPR,40.6943,-73.9249,18832416,10943.7,y
+374,New York,New York,WNYE,TV,AFR_T,NPR,40.6943,-73.9249,18832416,10943.7,y
+375,New York,Oswego,WRVO,Radio,AFR_R,NPR,43.511,-76.0037,222,41.4,y
+376,New York,Plattsburgh,WCFE,TV,AFR_T,PBS,44.6951,-73.4563,19878,1429.5,y
+377,New York,Rochester,WXXI FM,Radio,AFR_R,NPR,43.168,-77.6162,694707,2264.3,y
+378,New York,Rochester,WXXI TV,TV,AFR_T,PBS,43.168,-77.6162,694707,2264.3,y
+379,New York,Syracuse,WAER,Radio,AFR_R,NPR,43.0407,-76.1437,407625,2252.8,y
+380,New York,Syracuse,WCNY FM,Radio,AFR_R,NPR,43.0407,-76.1437,407625,2252.8,y
+381,New York,Syracuse,WCNY TV,TV,AFR_T,PBS,43.0407,-76.1437,407625,2252.8,y
+382,New York,Troy,WMHT FM,Radio,AFR_R,NPR,42.7354,-73.6751,51054,1903.2,y
+383,New York,Troy,WMHT TV,TV,AFR_T,PBS,42.7354,-73.6751,51054,1903.2,y
+384,New York,Vestal,WSKG FM,Radio,AFR_R,NPR,42.0844,-76.053333,5398,,y
+385,New York,Vestal,WSKG TV,TV,AFR_T,PBS,42.0844,-76.053333,5398,,y
+386,New York,Watertown,WPBS,TV,AFR_T,PBS,43.9734,-75.9094,24574,1050.5,y
+387,North Carolina,Asheville,WCQS,Radio,,NPR,35.5707,-82.5537,295040,801.4,y
+388,North Carolina,Chapel Hill,WUNC,Radio,AFR_R,NPR,35.9271,-79.0391,59889,1067.7,y
+389,North Carolina,Charlotte,WFAE,Radio,AFS,NPR,35.2083,-80.8303,1436613,1101.2,y
+390,North Carolina,Charlotte,WTVI,TV,AFR_T,PBS,35.2083,-80.8303,1436613,1101.2,y
+391,North Carolina,Davidson,WDAV,Radio,AFS,NPR,35.484,-80.8247,14852,883.7,y
+392,North Carolina,Durham,WNCU,Radio,AFR_R,NPR,35.9792,-78.9022,411362,953.9,y
+393,North Carolina,Elizabeth City,WRVS,Radio,AFR_R,NPR,36.2942,-76.236,18740,618.1,y
+394,North Carolina,New Bern,WTEB,Radio,AFS,NPR,35.0955,-77.0723,31563,428,y
+395,North Carolina,Durham,PBS North Carolina,TV,AFR_T,PBS,35.9081,-78.8628,411362,953.9,y
+396,North Carolina,Spindale,WNCW,Radio,AFR_R,NPR,35.3597,-81.9232,4244,303,y
+397,North Carolina,Wilmington,WHQR,Radio,AFR_R,NPR,34.2099,-77.8866,275128,890.5,y
+398,North Carolina,Winston-Salem,WFDD,Radio,AFR_R,NPR,36.1029,-80.261,434231,725.1,y
+399,North Dakota,Belcourt,KEYA,Radio,,NPR,48.8417,-99.7447,1739,115.6,
+400,North Dakota,Fargo,KCND,TV,AFR_T,NPR,46.8651,-96.8292,225066,980.3,y
+401,North Dakota,Fargo,Prairie Public Television,TV,AFR_T,PBS,46.8651,-96.8292,225066,980.3,y
+402,North Dakota,New Town,KMHA,Radio,AFR_R,Other,47.989,-102.4882,2725,364.4,y
+403,North Dakota,St. Michael,KABU,Radio,,Other,47.985,-98.8719,2074,,
+404,Ohio,Akron,WAPS,Radio,AFR_R,NPR,41.0798,-81.5219,538659,1181.5,y
+405,Ohio,Athens,WOUB FM,Radio,AFR_R,NPR,39.327,-82.0987,23211,901.1,y
+406,Ohio,Athens,WOUB TV,TV,AFR_T,PBS,39.327,-82.0987,23211,901.1,y
+407,Ohio,Bowling Green,WBGU,TV,AFR_T,PBS,41.3776,-83.6495,30051,902,y
+408,Ohio,Cincinnati,WCET,TV,AFR_T,PBS,39.1413,-84.506,1704916,1534.2,y
+409,Ohio,Cincinnati,WGUC,Radio,AFR_R,NPR,39.1413,-84.506,1704916,1534.2,y
+410,Ohio,Cleveland,WVIZ,TV,AFR_T,PBS,41.4764,-81.6805,1679247,1825.4,y
+411,Ohio,Cleveland,WCPN,Radio,AFR_R,NPR,41.4764,-81.6805,1679247,1825.4,y
+412,Ohio,Columbus,WCBE,Radio,,NPR,39.9862,-82.9855,1578153,1585.7,y
+413,Ohio,Columbus,WOSU FM,Radio,AFR_R,NPR,39.9862,-82.9855,1578153,1585.7,y
+414,Ohio,Columbus,WOSU TV,TV,AFR_T,PBS,39.9862,-82.9855,1578153,1585.7,y
+415,Ohio,Dayton,WDPR,Radio,,Other,39.7805,-84.2003,667936,946,y
+416,Ohio,Dayton,WPTD,TV,AFR_T,PBS,39.7805,-84.2003,667936,946,y
+417,Ohio,Kent,WNEO,TV,AFR_T,PBS,41.149,-81.361,27190,1138.3,y
+418,Ohio,Springdale,WMKV,Radio,,Other,39.2909,-84.476,10983,851.9,y
+419,Ohio,Toledo,WGTE FM,Radio,AFR_R,NPR,41.6638,-83.5827,492076,1287.8,y
+420,Ohio,Toledo,WGTE TV,TV,AFR_T,PBS,41.6638,-83.5827,492076,1287.8,y
+421,Ohio,Wilberforce,WCSU,Radio,,NPR,39.7151,-83.8847,1992,249.6,
+422,Ohio,Yellow Springs,WYSO,Radio,AFS,NPR,39.7987,-83.8904,3655,512.8,y
+423,Ohio,Youngstown,WYSU,Radio,AFR_R,NPR,41.0993,-80.6463,315751,678.3,y
+424,Oklahoma,Claremore,KRSU,TV,AFR_T,NPR,36.3146,-95.6095,19921,512.5,y
+425,Oklahoma,Edmond,KUCO,Radio,AFR_R,Other,35.6689,-97.416,95618,437.2,y
+426,Oklahoma,Lawton,KCCU,Radio,AFR_R,NPR,34.6175,-98.4202,90662,429.8,y
+427,Oklahoma,Norman,KGOU,Radio,AFR_R,NPR,35.2335,-97.3471,128714,278.2,y
+428,Oklahoma,Oklahoma City,Oklahoma Network,TV,AFS,PBS,35.4676,-97.5136,1000207,438.4,
+429,Oklahoma,Stillwater,KOSU,Radio,AFR_R,NPR,36.1317,-97.0742,48818,632.7,y
+430,Oklahoma,Tulsa,KWGS,Radio,AFR_R,NPR,36.1283,-95.9042,740620,805,y
+431,Oregon,Ashland,KNCA,Radio,AFR_R,NPR,42.1905,-122.6992,21343,1241.8,y
+432,Oregon,Ashland,KSOR,Radio,AFR_R,NPR,42.1905,-122.6992,21343,1241.8,y
+433,Oregon,Astoria,KMUN,Radio,AFR_R,NPR,46.1856,-123.8053,10162,642.3,y
+434,Oregon,Eugene,KLCC,Radio,AFS,NPR,44.0564,-123.1174,272737,1542,y
+435,Oregon,Eugene,KRVM,Radio,AFS,NPR,44.0564,-123.1174,272737,1542,y
+436,Oregon,Eugene,KWAX,Radio,FSR,Other,44.0564,-123.1174,272737,1542,y
+437,Oregon,Medford,KSYS,TV,AFR_T,PBS,42.3372,-122.854,164628,1168.5,y
+438,Oregon,Pendleton,KCUW,Radio,AFS,Other,45.6757,-118.8201,17070,572.7,y
+439,Oregon,Portland,KBOO,Radio,AFR_R,Other,45.5371,-122.65,2084045,1859,y
+440,Oregon,Portland,KOPB,Radio,AFR_R,NPR,45.5371,-122.65,2084045,1859,y
+441,Oregon,Portland,KQAC,Radio,AFR_R,NPR,45.5371,-122.65,2084045,1859,y
+442,Oregon,Portland,Oregon Network,TV,AFR_T,PBS,45.5371,-122.65,2084045,1859,
+443,Oregon,Warm Springs,KWSO,Radio,AFR_R,Other,44.7669,-121.2898,2446,22.3,y
+444,Pennsylvania,Bethlehem,WDIY,Radio,AFS,NPR,40.6266,-75.3679,77069,1556.7,y
+445,Pennsylvania,Bethlehem,WLVT,TV,AFS,PBS,40.6266,-75.3679,77069,1556.7,y
+446,Pennsylvania,Erie,WQLN FM,Radio,AFR_R,NPR,42.1167,-80.0733,184332,1900.2,y
+447,Pennsylvania,Erie,WQLN TV,TV,AFR_T,PBS,42.1167,-80.0733,184332,1900.2,y
+448,Pennsylvania,Harrisburg,WITF FM,Radio,AFR_R,NPR,40.2752,-76.8843,499494,2382.2,y
+449,Pennsylvania,Harrisburg,WITF TV,TV,AFR_T,PBS,40.2752,-76.8843,499494,2382.2,y
+450,Pennsylvania,Lancaster,WLCH,Radio,,Other,40.042,-76.3012,408023,3081.6,
+451,Pennsylvania,Philadelphia,Mighty Picnic LLC,Other,,Other,40.0077,-75.1339,5696588,4547.5,
+452,Pennsylvania,Philadelphia,WHYY FM,Radio,AFS,NPR,40.0077,-75.1339,5696588,4547.5,y
+577,Pennsylvania,Philadelphia,WHYY TV,TV,AFS,PBS,40.0077,-75.1339,5696588,4547.5,y
+453,Pennsylvania,Philadelphia,WRTI,Radio,AFR_R,NPR,40.0077,-75.1339,5696588,4547.5,y
+454,Pennsylvania,Philadelphia,WXPN,Radio,AFR_R,NPR,40.0077,-75.1339,5696588,4547.5,y
+455,Pennsylvania,Pittsburgh,"Public Radio Program Directors Association, Inc.",Other,,Other,40.4397,-79.9763,1712828,2116.9,
+456,Pennsylvania,Pittsburgh,The Fred Rogers Productions,Other,,Other,40.4397,-79.9763,1712828,2116.9,
+457,Pennsylvania,Pittsburgh,WQED FM,Radio,AFR_R,NPR,40.4397,-79.9763,1712828,2116.9,y
+458,Pennsylvania,Pittsburgh,WQED TV,TV,AFR_T,PBS,40.4397,-79.9763,1712828,2116.9,y
+459,Pennsylvania,Pittsburgh,WYEP,Radio,AFR_R,NPR,40.4397,-79.9763,1712828,2116.9,y
+460,Pennsylvania,Pittston,WVIA FM,Radio,AFR_R,NPR,41.3272,-75.7888,7618,1921.8,y
+461,Pennsylvania,Pittston,WVIA TV,TV,AFR_T,PBS,41.3272,-75.7888,7618,1921.8,y
+462,Pennsylvania,State College,WPSU FM,Radio,AFR_R,NPR,40.7909,-77.8567,79803,3429.7,y
+463,Pennsylvania,State College,WPSU TV,TV,AFR_T,PBS,40.7909,-77.8567,79803,3429.7,y
+464,Puerto Rico,Rio Piedras,WMTJ,TV,,PBS,18.3956,-66.0458,143989,,
+465,Puerto Rico,San Juan,WIPR,Radio,,Other,18.3985,-66.061,1809800,3110.1,
+466,Puerto Rico,San Juan,WRTU,Radio,AFS,NPR,18.3985,-66.061,1809800,3110.1,y
+467,Rhode Island,Providence,"Providence Pictures, Inc",Other,,Other,41.823,-71.4187,1270529,3990.1,
+468,Rhode Island,Providence,WNPE,Radio,AFS,NPR,41.823,-71.4187,1270529,3990.1,y
+469,Rhode Island,Providence,WSBE,TV,AFR_T,PBS,41.823,-71.4187,1270529,3990.1,y
+470,South Carolina,Columbia,National Educational Telecommunications Association,Other,,Other,34.0378,-80.9036,605083,385.4,
+471,South Carolina,Columbia,South Carolina Network,TV,,PBS,34.0378,-80.9036,605083,385.4,y
+472,South Carolina,Columbia,WLTR,Radio,AFR_R,NPR,34.0378,-80.9036,605083,385.4,y
+473,South Carolina,Orangeburg,WSSB,Radio,,NPR,33.4928,-80.8671,13189,565,
+474,South Dakota,Lake Andes,KDKO,Radio,,Other,43.156,-98.5361,934,483.5,y
+475,South Dakota,McLaughlin,KLND,Radio,AFR_R,Other,45.8132,-100.8108,567,541.5,y
+476,South Dakota,Porcupine,KILI,Radio,,Other,43.2687,-102.3353,549,22.1,
+477,South Dakota,Rosebud,KOYA,Radio,,Other,43.2398,-100.8229,1710,50.9,
+478,South Dakota,Sturgis,Public Media Journalists Association,Other,,Other,44.411,-103.4973,7111,427.6,
+479,South Dakota,Vermillion,KUSD,Radio,AFR_R,NPR,42.7811,-96.9256,11800,977.5,y
+480,South Dakota,Vermillion,South Dakota Public Television,TV,AFR_T,PBS,42.7811,-96.9256,11800,977.5,y
+481,Tennessee,Chattanooga,WTCI,TV,AFS,PBS,35.066,-85.2481,410795,495.9,y
+482,Tennessee,Chattanooga,WUTC,Radio,AFR_R,NPR,35.066,-85.2481,410795,495.9,y
+483,Tennessee,Cookeville,WCTE,TV,AFR_T,PBS,36.1482,-85.5109,35544,383.7,y
+484,Tennessee,Memphis,WKNO FM,Radio,AFR_R,NPR,35.1087,-89.9663,1033394,820,y
+485,Tennessee,Memphis,WKNO TV,TV,AFR_T,PBS,35.1087,-89.9663,1033394,820,y
+486,Tennessee,Johnson City,WETS,Radio,AFR_R,NPR,36.3406,-82.3806,129818,634.1,
+487,Tennessee,Knoxville,WDVX,Radio,AFR_R,Other,35.9692,-83.9496,618226,757.6,y
+488,Tennessee,Knoxville,WETP,TV,AFS,PBS,35.9692,-83.9496,618226,757.6,y
+489,Tennessee,Knoxville,WUOT,Radio,AFR_R,NPR,35.9692,-83.9496,618226,757.6,y
+490,Tennessee,Martin,WLJT,TV,AFR_T,PBS,36.3385,-88.8513,10864,338.1,y
+491,Tennessee,Nashville,WNPT,TV,AFR_T,PBS,36.1715,-86.7842,1178679,555.6,y
+492,Tennessee,Nashville,WPLN,Radio,AFR_R,NPR,36.1715,-86.7842,1178679,555.6,y
+493,Texas,Abilene,KACU,Radio,AFS,NPR,32.4543,-99.7384,127130,460.2,y
+494,Texas,Amarillo,KACV,TV,AFR_T,PBS,35.1984,-101.8316,205100,748.8,y
+495,Texas,Austin,KLRU,TV,AFR_T,PBS,30.3005,-97.7522,1915031,1145,y
+496,Texas,Austin,KMFA,Radio,AFR_R,NPR,30.3005,-97.7522,1915031,1145,y
+497,Texas,Austin,KUT,Radio,AFR_R,NPR,30.3005,-97.7522,1915031,1145,y
+498,Texas,Beaumont,KVLU,Radio,,NPR,30.0849,-94.1451,146554,534.5,
+499,Texas,College Station,KAMU,Radio,AFR_R,NPR,30.5852,-96.2959,215768,922.8,y
+500,Texas,Commerce,KETR,Radio,AFS,NPR,33.2421,-95.8992,9211,426.7,y
+501,Texas,Corpus Christi,KEDT FM,Radio,AFR_R,NPR,27.7254,-97.3767,339432,755.1,y
+502,Texas,Corpus Christi,KEDT TV,TV,AFR_T,PBS,27.7254,-97.3767,339432,755.1,y
+503,Texas,Dallas,KERA FM,Radio,AFR_R,NPR,32.7935,-96.7667,5843632,1477.2,y
+504,Texas,Dallas,KERA TV,TV,AFR_T,PBS,32.7935,-96.7667,5843632,1477.2,y
+505,Texas,El Paso,KTEP,Radio,AFR_R,NPR,31.8476,-106.43,862494,1011.8,y
+506,Texas,Houston,KTSU,Radio,AFR_R,NPR,29.786,-95.3885,6046392,1386.5,y
+507,Texas,Houston,KUHF,Radio,AFR_R,NPR,29.786,-95.3885,6046392,1386.5,y
+508,Texas,Houston,KUHT,TV,AFR_T,PBS,29.786,-95.3885,6046392,1386.5,y
+509,Texas,Killeen,KNCT,Radio,FSR,Other,31.0753,-97.7297,261099,1103.6,y
+510,Texas,Lubbock,KTTZ FM,Radio,,NPR,33.5657,-101.8879,283024,710.1,y
+511,Texas,Lubbock,KTTZ TV,TV,,PBS,33.5657,-101.8879,283024,710.1,y
+512,Texas,Marfa,KRTS,Radio,FSR,NPR,30.3107,-104.0255,2179,518.5,y
+513,Texas,Marfa,KXWT,Radio,AFR_R,NPR,30.3107,-104.0255,2179,518.5,y
+514,Texas,Midland,KPBT,TV,AFR_T,PBS,32.0243,-102.1147,143714,680.9,y
+515,Texas,San Antonio,KLRN,TV,AFR_T,PBS,29.4632,-98.5238,2069843,1129,y
+516,Texas,San Antonio,KPAC,Radio,AFR_R,NPR,29.4632,-98.5238,2069843,1129,y
+517,Texas,Texarkana,KTXK,Radio,,NPR,33.45,-94.0847,78541,443,y
+518,Texas,Waco,KWBU,Radio,AFR_R,NPR,31.5599,-97.1882,197594,602.1,y
+519,Utah,Logan,KUSU,Radio,AFS,NPR,41.7399,-111.8422,122915,1153.3,y
+520,Utah,Park City,KPCW,Radio,AFR_R,NPR,40.6502,-111.5013,8365,145.1,y
+521,Utah,Salt Lake City,KRCL,Radio,,Other,40.7776,-111.9311,1169033,709.9,y
+522,Utah,Salt Lake City,KUED,TV,AFR_T,PBS,40.7776,-111.9311,1169033,709.9,y
+523,Utah,Salt Lake City,KUEN,TV,AFR_T,PBS,40.7776,-111.9311,1169033,709.9,y
+524,Utah,Salt Lake City,KUER,Radio,AFR_R,NPR,40.7776,-111.9311,1169033,709.9,y
+525,Vermont,Colchester,Vermont PBS,TV,AFR_T,PBS,44.4758,-73.2119,118409,,y
+526,Vermont,Colchester,WVPS,Radio,AFR_R,NPR,44.4758,-73.2119,118409,,y
+527,"Virgin Islands, U.S.",St. Thomas,WTJX,TV,AFR_T,PBS,18.3333,-64.9167,42261,,y
+528,Virginia,Arlington,Association of Public Television Stations,Other,,Other,38.8786,-77.1011,235463,3497,
+529,Virginia,Arlington,"Blue Land Media, LLC",Other,,Other,38.8786,-77.1011,235463,3497,
+530,Virginia,Arlington,"Newshour Productions, LLC",Other,,Other,38.8786,-77.1011,235463,3497,
+531,Virginia,Arlington,Public Broadcasting Service,Other,,Other,38.8786,-77.1011,235463,3497,
+532,Virginia,Arlington,WETA FM,Radio,AFR_R,NPR,38.8786,-77.1011,235463,3497,y
+533,Virginia,Arlington,WETA TV,TV,AFR_T,PBS,38.8786,-77.1011,235463,3497,y
+534,Virginia,Charlottesville,WNRN,Radio,AFR_R,NPR,38.0375,-78.4855,102802,1728.4,y
+535,Virginia,Charlottesville,WTJU,Radio,AFR_R,Other,38.0375,-78.4855,102802,1728.4,y
+536,Virginia,Harrisonburg,WMRA,Radio,AFR_R,NPR,38.4362,-78.8735,73926,1146.8,y
+537,Virginia,Norfolk,WHRO,TV,AFR_T,NPR,36.8945,-76.259,235037,1703.4,y
+538,Virginia,Norfolk,WHRV,Radio,AFR_R,NPR,36.8945,-76.259,235037,1703.4,y
+539,Virginia,Norfolk,WNSB,Radio,,NPR,36.8945,-76.259,235037,1703.4,
+540,Virginia,Richmond,WCVE,Radio,AFR_R,NPR,37.5295,-77.4756,1081248,1466.4,y
+541,Virginia,Roanoke,WBRA,TV,AFR_T,PBS,37.2785,-79.9581,214019,896,y
+542,Virginia,Roanoke,WVTF,Radio,AFR_R,NPR,37.2785,-79.9581,214019,896,y
+543,Washington,Bellevue,KBCS,Radio,AFS,Other,47.5951,-122.1535,151199,1744.3,y
+544,Washington,Granger,KDNA,Radio,AFR_R,Other,46.3454,-120.1925,3658,817.4,y
+545,Washington,Mount Vernon,KSVR,Radio,FSR,Other,48.4203,-122.3115,66704,1108.7,y
+546,Washington,Pullman,KWSU AM,Radio,AFS,NPR,46.7336,-117.168,31939,1108.7,y
+547,Washington,Pullman,KWSU TV,TV,AFR_T,PBS,46.7336,-117.168,31939,1108.7,y
+548,Washington,Seattle,KCTS,TV,AFR_T,PBS,47.6211,-122.3244,3555253,3408,y
+549,Washington,Seattle,KEXP,Radio,AFR_R,NPR,47.6211,-122.3244,3555253,3408,y
+550,Washington,Seattle,KING,Radio,AFR_R,NPR,47.6211,-122.3244,3555253,3408,y
+551,Washington,Seattle,KNHC,Radio,AFR_R,Other,47.6211,-122.3244,3555253,3408,y
+552,Washington,Seattle,KUOW,Radio,AFR_R,NPR,47.6211,-122.3244,3555253,3408,y
+553,Washington,Spokane,KPBX,Radio,AFS,NPR,47.6671,-117.433,458988,1287.2,y
+554,Washington,Spokane,KSPS,TV,AFS,PBS,47.6671,-117.433,458988,1287.2,y
+555,Washington,Tacoma,KBTC,TV,AFR_T,PBS,47.2431,-122.4531,220482,1712.4,y
+556,Washington,Tacoma,KNKX,Radio,,NPR,47.2431,-122.4531,220482,1712.4,y
+557,West Virginia,Charleston,WVPB FM,Radio,AFR_R,NPR,38.3484,-81.6322,133045,589.3,y
+558,West Virginia,Charleston,WVPB TV,TV,AFR_T,PBS,38.3484,-81.6322,133045,589.3,y
+559,West Virginia,Dunmore,WVLS,Radio,FSR,NPR,38.3594,-79.8808,1014,,y
+560,West Virginia,Dunmore,WVMR,Radio,FSR,NPR,38.3594,-79.8808,1014,,y
+561,Wisconsin,Hayward,WOJB,Radio,,NPR,46.0094,-91.4826,2549,264.2,y
+562,Wisconsin,Madison,University of Wisconsin - Extension,Other,,Other,43.0822,-89.393,460255,1280.5,
+563,Wisconsin,Madison,WERN,Radio,AFR_R,NPR,43.0822,-89.393,460255,1280.5,y
+564,Wisconsin,Madison,WHA AM,Radio,AFR_R,NPR,43.0822,-89.393,460255,1280.5,y
+565,Wisconsin,Madison,WHA TV,TV,AFR_T,PBS,43.0822,-89.393,460255,1280.5,y
+566,Wisconsin,Madison,WHAD,Radio,AFR_R,NPR,43.0822,-89.393,460255,1280.5,y
+567,Wisconsin,Madison,Wisconsin Network,TV,AFR_T,PBS,43.0822,-89.393,460255,1280.5,y
+568,Wisconsin,Madison,WLSU,Radio,AFR_R,NPR,43.0822,-89.393,460255,1280.5,y
+569,Wisconsin,Madison,WORT,Radio,AFR_R,Other,43.0822,-89.393,460255,1280.5,y
+570,Wisconsin,Milwaukee,WMVS,TV,AFR_T,PBS,43.0642,-87.9675,1290221,2287.4,y
+571,Wisconsin,Milwaukee,WUWM,Radio,AFR_R,NPR,43.0642,-87.9675,1290221,2287.4,y
+572,Wisconsin,Milwaukee,WYMS,Radio,AFS,NPR,43.0642,-87.9675,1290221,2287.4,y
+573,Wisconsin,Rhinelander,WXPR,Radio,AFR_R,NPR,45.6358,-89.4261,8248,378.3,y
+574,Wyoming,Jackson,KHOL,Radio,,Other,43.472,-110.7746,10746,1401.1,
+575,Wyoming,Laramie,KUWR,Radio,AFR_R,NPR,41.3099,-105.6085,31848,668.3,y
+576,Wyoming,Riverton,KCWC,TV,AFR_T,PBS,43.0421,-108.4144,10803,403.4,y
