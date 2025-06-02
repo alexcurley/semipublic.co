@@ -559,7 +559,7 @@ SID,State,City,Recipient,Type,Document,Affiliation,Lat,Long,Population,Density,A
 558,West Virginia,Charleston,WVPB TV,TV,AFR_T,PBS,38.3484,-81.6322,133045,589.3,y
 559,West Virginia,Dunmore,WVLS,Radio,FSR,NPR,38.3594,-79.8808,1014,,y
 560,West Virginia,Dunmore,WVMR,Radio,FSR,NPR,38.3594,-79.8808,1014,,y
-561,Wisconsin,Hayward,WOJB,Radio,,NPR,46.0094,-91.4826,2549,264.2,y
+561,Wisconsin,Hayward,WOJB,Radio,,NPR,46.0094,-91.4826,2549,264.2,n
 562,Wisconsin,Madison,University of Wisconsin - Extension,Other,,Other,43.0822,-89.393,460255,1280.5,
 563,Wisconsin,Madison,WERN,Radio,AFR_R,NPR,43.0822,-89.393,460255,1280.5,y
 564,Wisconsin,Madison,WHA AM,Radio,AFR_R,NPR,43.0822,-89.393,460255,1280.5,y
