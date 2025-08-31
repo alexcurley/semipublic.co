@@ -2,11 +2,11 @@
 
 # Semipublic's Financial Document Repository
 
-This is a collection of every publicly available financial document subitted by public media entities to the Corporation for Public Broadcasting as well as a compilation of that data into various CSVs. These documents and CSVs feed the database at data.semipublic.co as well as the Substack at semipublic.co.
+This is a collection of every publicly available financial document subitted by public media entities to the Corporation for Public Broadcasting as well as various CSVs compiled from that data. These documents and CSVs feed the database at data.semipublic.co as well as the Substack at semipublic.co.
 
 Within each fiscal year, you'll find a CSV containing an index of every CPB grantee for that year as well as CSVs of data gathered from AFRs/FSRs and AFSes. Stations are assigned a numerical ID to assist in joining the data together in a SQL database.
 
-In the Public Media Documents parent folder, you'll find a CSV of ever CPB grant issued from 2019 to 2024.
+In the Public Media Documents parent folder, you'll find a CSV of every CPB grant issued from 2019 to 2024.
 
 ## Types of documents (PDFs)
 
