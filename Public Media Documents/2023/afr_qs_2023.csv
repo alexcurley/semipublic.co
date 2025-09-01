@@ -1,0 +1,315 @@
+﻿QID,Schedule,Question
+1,A,1. Source of Income: Amounts provided directly and indirectly by federal government agencies
+2,A,1.1.A. Grants for facilities and other capital purposes
+3,A,1.1.B. Department of Education
+4,A,1.1.C. Department of Health and Human Services
+5,A,1.1.D. National Endowment for the Arts and Humanities
+6,A,1.1.E. National Science Foundation
+7,A,1.1.F. Other Federal Funds (specify)
+8,A,2. Amounts provided by Public Broadcasting Entities
+9,A,2.1.A. CPB - Community Service Grants
+10,A,2.1.B. CPB - all other funds from CPB
+11,A,2.1.C. PBS - all payments except copyright royalties and other pass-through payments. See Guidelines for details.
+12,A,2.1.D. NPR - all payments except pass-through payments. See Guidelines for details.
+13,A,2.1.E. Public broadcasting stations - all payments
+14,A,2.1.F. Other PBE funds (specify)
+15,A,3. Local boards and departments of education or other local government or agency sources
+16,A,3.1 NFFS Eligible
+17,A,3.1.A. Program and production underwriting
+18,A,3.1.B. Grants and contributions other than underwriting
+19,A,3.1.C. Appropriations from the licensee
+20,A,3.1.D. Gifts and grants for facilities and equipment as restricted by the donor or received through a capital campaign (Radio only)
+21,A,3.1.E. Gifts and grants received through a capital campaign but not for facilities and equipment
+22,A,3.1.F. Other income eligible as NFFS (specify)
+23,A,3.2 NFFS Ineligible
+24,A,3.2.A. Rental income
+25,A,3.2.B. Fees for services
+26,A,3.2.C. Licensing fees (not royalties – see instructions for Line 15)
+27,A,3.2.D. Gifts and grants for facilities and equipment as restricted by the donor or received through a capital campaign (TV only)
+28,A,3.2.E. Other income ineligible for NFFS inclusion
+29,A,4. State boards and departments of education or other state government or agency sources
+30,A,4.1 NFFS Eligible
+31,A,4.1.A. Program and production underwriting
+32,A,4.1.B. Grants and contributions other than underwriting
+33,A,4.1.C. Appropriations from the licensee
+34,A,4.1.D. Gifts and grants for facilities and equipment as restricted by the donor or received through a capital campaign (Radio only)
+35,A,4.1.E. Gifts and grants received through a capital campaign but not for facilities and equipment
+36,A,4.1.F. Other income eligible as NFFS (specify)
+37,A,4.2 NFFS Ineligible
+38,A,4.2.A. Rental income
+39,A,4.2.B. Fees for services
+40,A,4.2.C. Licensing fees (not royalties – see instructions for Line 15)
+41,A,4.2.D. Gifts and grants for facilities and equipment as restricted by the donor or received through a capital campaign (TV only)
+42,A,4.2.E. Other income ineligible for NFFS inclusion
+43,A,5. State colleges and universities
+44,A,5.1 NFFS Eligible
+45,A,5.1.A. Program and production underwriting
+46,A,5.1.B. Grants and contributions other than underwriting
+47,A,5.1.C. Appropriations from the licensee
+48,A,5.1.D. Gifts and grants for facilities and equipment as restricted by the donor or received through a capital campaign (Radio only)
+49,A,5.1.E. Gifts and grants received through a capital campaign but not for facilities and equipment
+50,A,5.1.F. Other income eligible as NFFS (specify)
+51,A,5.2 NFFS Ineligible
+52,A,5.2.A. Rental income
+53,A,5.2.B. Fees for services
+54,A,5.2.C. Licensing fees (not royalties – see instructions for Line 15)
+55,A,5.2.D. Gifts and grants for facilities and equipment as restricted by the donor or received through a capital campaign (TV only)
+56,A,5.2.E. Other income ineligible for NFFS inclusion
+57,A,6. Other state-supported colleges and universities
+58,A,6.1 NFFS Eligible
+59,A,6.1.A. Program and production underwriting
+60,A,6.1.B. Grants and contributions other than underwriting
+61,A,6.1.C. Appropriations from the licensee
+62,A,6.1.D. Gifts and grants for facilities and equipment as restricted by the donor or received through a capital campaign (Radio only)
+63,A,6.1.E. Gifts and grants received through a capital campaign but not for facilities and equipment
+64,A,6.1.F. Other income eligible as NFFS (specify)
+65,A,6.2 NFFS Ineligible
+66,A,6.2.A. Rental income
+67,A,6.2.B. Fees for services
+68,A,6.2.C. Licensing fees (not royalties – see instructions for Line 15)
+69,A,6.2.D. Gifts and grants for facilities and equipment as restricted by the donor or received through a capital campaign (TV only)
+70,A,6.2.E. Other income ineligible for NFFS inclusion
+71,A,7. Private colleges and universities
+72,A,7.1 NFFS Eligible
+73,A,7.1.A. Program and production underwriting
+74,A,7.1.B. Grants and contributions other than underwriting
+75,A,7.1.C. Appropriations from the licensee
+76,A,7.1.D. Gifts and grants for facilities and equipment as restricted by the donor or received through a capital campaign (Radio only)
+77,A,7.1.E. Gifts and grants received through a capital campaign but not for facilities and equipment
+78,A,7.1.F. Other income eligible as NFFS (specify)
+79,A,7.2 NFFS Ineligible
+80,A,7.2.A. Rental income
+81,A,7.2.B. Fees for services
+82,A,7.2.C. Licensing fees (not royalties – see instructions for Line 15)
+83,A,7.2.D. Gifts and grants for facilities and equipment as restricted by the donor or received through a capital campaign (TV only)
+84,A,7.2.E. Other income ineligible for NFFS inclusion
+85,A,8. Foundations and nonprofit associations
+86,A,8.1 NFFS Eligible
+87,A,8.1.A. Program and production underwriting
+88,A,8.1.B. Grants and contributions other than underwriting
+89,A,8.1.C. Gifts and grants for facilities and equipment as restricted by the donor or received through a capital campaign (Radio only)
+90,A,8.1.D. Gifts and grants received through a capital campaign but not for facilities and equipment
+91,A,8.1.E. Other income eligible as NFFS (specify)
+92,A,8.2 NFFS Ineligible
+93,A,8.2.A. Rental income
+94,A,8.2.B. Fees for services
+95,A,8.2.C. Licensing fees (not royalties – see instructions for Line 15)
+96,A,8.2.D. Gifts and grants for facilities and equipment as restricted by the donor or received through a capital campaign (TV only)
+97,A,8.2.E. Other income ineligible for NFFS inclusion
+98,A,9. Business and Industry
+99,A,9.1 NFFS Eligible
+100,A,9.1.A. Program and production underwriting
+101,A,9.1.B. Grants and contributions other than underwriting
+102,A,9.1.C. Gifts and grants for facilities and equipment as restricted by the donor or received through a capital campaign (Radio only)
+103,A,9.1.D. Gifts and grants received through a capital campaign but not for facilities and equipment
+104,A,9.1.E. Other income eligible as NFFS (specify)
+105,A,9.2 NFFS Ineligible
+106,A,9.2.A. Rental income
+107,A,9.2.B. Fees for services
+108,A,9.2.C. Licensing fees (not royalties – see instructions for Line 15)
+109,A,9.2.D. Gifts and grants for facilities and equipment as restricted by the donor or received through a capital campaign (TV only)
+110,A,9.2.E. Other income ineligible for NFFS inclusion
+111,A,10. Memberships and subscriptions (net of membership bad debt expense)
+112,A,10.1 NFFS Exclusion – Fair market value of premiums that are not of insubstantial value
+113,A,10.2 NFFS Exclusion – All bad debt expenses from NFFS eligible revenues including but not limited to pledges  underwriting  and membership (unless netted elsewhere in Schedule A)
+114,A,10.3 Total number of contributors.
+115,A,11. Revenue from Friends groups less any revenue included on line 10
+116,A,11.1 Total number of Friends contributors.
+117,A,12. Subsidiaries and other activities unrelated to public broadcasting (See instructions)
+118,A,12.A. Nonprofit subsidiaries involved in telecommunications activities
+119,A,12.B. NFFS Ineligible – Nonprofit subsidiaries not involved in telecommunications activities
+120,A,12.C. NFFS Ineligible – For-profit subsidiaries regardless of the nature of its activities
+121,A,12.D. NFFS Ineligible – Other activities unrelated to public brodcasting
+122,A,13. Auction revenue (see instructions for Line 13)
+123,A,13.A. Gross auction revenue
+124,A,13.B. Direct auction expenses
+125,A,14. Special fundraising activities (see instructions for Line 14)
+126,A,14.A. Gross special fundraising revenues
+127,A,14.B. Direct special fundraising expenses
+128,A,15. Passive income
+129,A,15.A. Interest and dividends (other than on endowment funds)
+130,A,15.B. Royalties
+131,A,15.C. PBS or NPR pass-through copyright royalties
+132,A,16. Gains and losses on investments  charitable trusts and gift annuities and sale of other assets (other than endowment funds)
+133,A,16.A. Gains from sales of property and equipment (do not report losses)
+134,A,16.B. Realized gains/losses on investments (other than endowment funds)
+135,A,16.C. Unrealized gains/losses on investments and actuarial gains/losses on charitable trusts and gift annuities (other than endowment funds)
+136,A,17. Endowment revenue
+137,A,17.A. Contributions to endowment principal
+138,A,17.B. Interest and dividends on endowment funds
+139,A,17.C. Realized net investment gains and losses on endowment funds (if this is a negative amount  add a hyphen  e.g.   -1 765 )
+140,A,17.D. Unrealized net investment gains and losses on endowment funds (if this is a negative amount  add a hyphen  e.g.   -1 765 )
+141,A,18. Capital fund contributions from individuals (see instructions)
+142,A,18.A. Facilities and equipment (except funds received from federal or public broadcasting sources)
+143,A,18.B. Other
+144,A,19. Gifts and bequests from major individual donors
+145,A,19.1 Total number of major individual donors
+146,A,20. Other Direct Revenue
+147,A,Line 21. Proceeds from the FCC Spectrum Incentive Auction  interest and dividends earned on these funds  channel sharing revenues  and spectrum leases
+148,A,21.A. Proceeds from sale in spectrum auction
+149,A,21.B. Interest and dividends earned on spectrum auction related revenue
+150,A,21.C. Payments from spectrum auction speculators
+151,A,21.D. Channel sharing and spectrum leases revenues
+152,A,21.E. Spectrum repacking funds
+153,A,22. Total Revenue (Sum of lines 1 through 12  13.A  14.A  and 15 through 21)
+154,A,23. Federal revenue from line 1.
+155,A,24. Public broadcasting revenue from line 2.
+156,A,25. Capital funds exclusion—TV (3.2D  4.2D  5.2D  6.2D  7.2D  8.2D  9.2D  18A)
+157,A,26. Revenue on line 20 not meeting the source  form  purpose  or recipient criteria
+158,A,27. Other automatic subtractions from total revenue
+159,A,27.A. Auction expenses – limited to the lesser of lines 13a or 13b
+160,A,27.B. Special fundraising event expenses – limited to the lesser of lines 14a or 14b
+161,A,27.C. Gains from sales of property and equipment – line 16a
+162,A,27.D. Realized gains/losses on investments (other than endowment funds) – line 16b
+163,A,27.E. Unrealized investment and actuarial gains/losses (other than endowment funds) – line 16c
+164,A,27.F. Realized and unrealized net investment gains/losses on endowment funds – line 17c  line 17d
+165,A,27.G. Rental income (3.2A  4.2A  5.2A  6.2A  7.2A  8.2A  9.2A)
+166,A,27.H. Fees for services (3.2B  4.2B  5.2B  6.2B  7.2B  8.2B  9.2B)
+167,A,27.I. Licensing Fees (3.2C  4.2C  5.2C  6.2C  7.2C  8.2C  9.2C)
+168,A,27.J. Other revenue ineligible as NFFS (3.2E  4.2E  5.2E  6.2E  7.2E  8.2E  9.2E)
+169,A,27.K. FMV of high-end premiums (Line 10.1)
+170,A,27.L. All bad debt expenses from NFFS eligible revenues including but not limited to pledges  underwriting  and membership (Line 10.2)
+171,A,27.M. Revenue from subsidiaries and other activities ineligible as NFFS (12.B  12.C  12.D)
+172,A,27.N. Proceeds from spectrum auction and related revenues from line 21.
+173,A,28. Total Direct Nonfederal Financial Support (Line 22 less Lines 23 through 27).
+174,B,1.1.A. Institutional Support (Enter this amount here only if station benefits from Institutional Support.)
+175,B,1.1.B. AFS page or  n/a 
+176,B,1.1.C. Physical Plant Support (Enter this amount here only if station benefits from Physical Plant Support.)
+177,B,1.1.D. AFS page or  n/a 
+178,B,1.2. Licensee Indirect Costs
+179,B,1.3.A. Total Operating expenses
+180,B,1.3.B. AFS page or  n/a 
+181,B,1.3.C. Less: Institutional Support (Enter this amount whether or not the station benefits from Institutional Support).
+182,B,1.3.D. AFS page or  n/a 
+183,B,1.3.E. Less: Physical Plant Support (Enter this amount whether or not the station benefits from Physical Plant Support.)
+184,B,1.3.F. AFS page or  n/a 
+185,B,1.3.G. Licensee's Direct Costs (= Total operating expenses minus both Institutional Support and Physical Plant Support)
+186,B,1.3.H. Indirect Cost Rate = (Licensee's Indirect Costs/Licensee's Direct Costs)
+187,B,2.1.A. Station's Total Operating Expenses (from Schedule E  Line 8)
+188,B,2.1.B. Less: Depreciation and Amortization - from station's AFS (if applicable)
+189,B,2.1.C. AFS page or  n/a 
+190,B,2.1.D. In-kind contributions and donated property and equipment reported as expenses per AFS (if applicable)
+191,B,2.1.E. AFS page or  n/a 
+192,B,2.1.F. Indirect Administrative Support (if included in station's total expenses) -per AFS
+193,B,2.1.G. AFS page or  n/a 
+194,B,2.1.H. Expenses for non-broadcast activities and UBIT-per AFS (if applicable)
+195,B,2.1.I. AFS page or  n/a 
+196,B,2.1.J. Expenses not supported by licensee - per AFS (Example: expenses of consolidated entities like Friends Groups  foundations  and component units (if applicable) 
+197,B,2.1.K. AFS page or  n/a 
+198,B,2.1.L. Station's Net Direct Expenses
+199,B,3. : Apply the Rate to the Base (= total support activity benefiting the station)
+200,B,4.1. Total support activity benefiting station
+201,B,4.2. Occupancy value
+202,B,"4.3. Deductions: Fees paid to the licensee for overhead
+recovery  assessment  etc."
+203,B,"4. Deductions: Support shown on lines 1 and 2 in excess
+of revenue reported in financial statements."
+204,B,5. Total Indirect Administrative Support (Forwards to Line 2 of the Summary of Nonfederal Financial Support)
+205,B,6. Please enter an institutional type code for your licensee.
+206,C,1. PROFESSIONAL SERVICES (must be eligible as NFFS)
+207,C,1.1.A. Legal
+208,C,1.1.B. Accounting and/or auditing
+209,C,1.1.C. Engineering
+210,C,"1.1.D. Other professionals (see specific line item instructions
+in Guidelines before completing)"
+211,C,"2. GENERAL OPERATIONAL SERVICES (must be eligible as
+NFFS)"
+212,C,"2.1.A. Annual rental value of space (studios  offices  or tower
+facilities)"
+213,C,"2.1.B. Annual value of land used for locating a station-owned
+transmission tower"
+214,C,2.1.C. Station operating expenses
+215,C,"2.1.D. Other (see specific line item instructions in Guidelines
+before completing)"
+216,C,3. OTHER SERVICES (must be eligible as NFFS)
+217,C,3.1.A. ITV or educational radio
+218,C,3.1.B. State public broadcasting agencies
+219,C,3.1.C. Local advertising
+220,C,3.1.D. National advertising
+221,C,4. Total in-kind contributions - services and other assets eligible as NFFS (sum of lines 1 through 3)  forwards to Line 3a. of the Summary of Nonfederal Financial Support
+222,C,5. IN-KIND CONTRIBUTIONS INELIGIBLE AS NFFS
+223,C,5.1.A. Compact discs  records  tapes and cassettes
+224,C,5.1.B. Exchange transactions
+225,C,5.1.C. Federal or public broadcasting sources
+226,C,5.1.D. Fundraising related activities
+227,C,"5.1.E. ITV or educational radio outside the allowable scope of
+approved activities"
+228,C,5.1.F. Local productions
+229,C,5.1.G. Program supplements
+230,C,5.1.H. Programs that are nationally distributed
+231,C,5.1.I. Promotional items
+232,C,5.1.J. Regional organization allocations of program services
+233,C,"5.1.K. State PB agency allocations other than those allowed
+on line 3(b)"
+234,C,"5.1.L. Services that would not need to be purchased if not
+donated"
+235,C,5.1.M. Other
+236,C,6. Total in-kind contributions - services and other assets (line 4 plus line 5)  forwards to Schedule F  line 1c. Must agree with in-kind contributions recognized as revenue in the AFS.
+237,D,1. Land (must be eligible as NFFS)
+238,D,2. Building (must be eligible as NFFS)
+239,D,3. Equipment (must be eligible as NFFS)
+240,D,4. Vehicle(s) (must be eligible as NFFS)
+241,D,5. Other (specify) (must be eligible as NFFS)
+242,D,6. Total in-kind contributions - property and equipment eligible as NFFS (sum of lines 1 through 5)  forwards to Line 3b. of the Summary of Nonfederal Financial Support
+243,D,7. IN-KIND CONTRIBUTIONS INELIGIBLE AS NFFS
+244,D,7.1.A. Exchange transactions
+245,D,7.1.B. Federal or public broadcasting sources
+246,D,"7.1.C. TV only—property and equipment that includes new
+facilities (land and structures)  expansion of existing
+facilities and acquisition of new equipment"
+247,D,7.1.D. Other (specify)
+248,D,8. Total in-kind contributions - property and equipment (line 6 plus line 7)  forwards to Schedule F  line 1d. Must agree with in-kind contributions recognized as revenue in the AFS.
+249,E,1. Programming and production
+250,E,1.A. Restricted Radio CSG
+251,E,1.B. Unrestricted Radio CSG
+252,E,1.C. Other CPB Funds
+253,E,1.D. All non-CPB Funds
+254,E,2. Broadcasting and engineering
+255,E,2.A. Restricted Radio CSG
+256,E,2.B. Unrestricted Radio CSG
+257,E,2.C. Other CPB Funds
+258,E,2.D. All non-CPB Funds
+259,E,3. Program information and promotion
+260,E,3.A. Restricted Radio CSG
+261,E,3.B. Unrestricted Radio CSG
+262,E,3.C. Other CPB Funds
+263,E,3.D. All non-CPB Funds
+264,E,4. Management and general
+265,E,4.A. Restricted Radio CSG
+266,E,4.B. Unrestricted Radio CSG
+267,E,4.C. Other CPB Funds
+268,E,4.D. All non-CPB Funds
+269,E,5. Fund raising and membership development
+270,E,5.A. Restricted Radio CSG
+271,E,5.B. Unrestricted Radio CSG
+272,E,5.C. Other CPB Funds
+273,E,5.D. All non-CPB Funds
+274,E,6. Underwriting and grant solicitation
+275,E,6.A. Restricted Radio CSG
+276,E,6.B. Unrestricted Radio CSG
+277,E,6.C. Other CPB Funds
+278,E,6.D. All non-CPB Funds
+279,E,7. Depreciation and amortization (if not allocated to functional categories in lines 1 through 6)
+280,E,7.A. Restricted Radio CSG
+281,E,7.B. Unrestricted Radio CSG
+282,E,7.C. Other CPB Funds
+283,E,7.D. All non-CPB Funds
+284,E,8. Total Expenses (sum of lines 1 to 7) must agree with audited financial statements
+285,E,8.A. Total Restricted Radio CSG (sum of Lines 1.A  2.A  3.A  4.A  5.A  6.A  7.A)
+286,E,8.B. Total Unrestricted Radio CSG (sum of Lines 1.B  2.B  3.B  4.B  5.B  6.B  7.B)
+287,E,8.C. Total Other CPB Funds (sum of Lines 1.C  2.C  3.C  4.C  5.C  6.C  7.C)
+288,E,8.D. Total All non-CPB Funds (sum of Lines 1.D  2.D  3.D  4.D  5.D  6.D  7.D)
+289,E,9. Total capital assets purchased or donated
+290,E,9a. Land and buildings
+291,E,9b. Equipment
+292,E,9c. All other
+293,E,10. Total expenses and investment in capital assets (Sum of lines 8 and 9)
+294,E,11. Total expenses (direct only)
+295,E,12. Total expenses (indirect and in-kind)
+296,E,13. Investment in capital assets (direct only)
+297,E,14. Investment in capital assets (indirect and in-kind)
+298,F,1.1.A. Data from AFR - Schedule A  Line 22
+299,F,1.1.B. Schedule B  Line 5
+300,F,1.1.C. Schedule C  Line 6
+301,F,1.1.D. Schedule D  Line 8 
+302,F,1.1.E. Total from AFR 
